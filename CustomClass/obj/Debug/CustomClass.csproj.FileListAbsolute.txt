@@ -1,0 +1,5 @@
+C:\Users\jiaxing.TTNI\Documents\Visual Studio 2008\Projects\CustomClass\CustomClass\bin\CustomClass.dll
+C:\Users\jiaxing.TTNI\Documents\Visual Studio 2008\Projects\CustomClass\CustomClass\bin\CustomClass.pdb
+C:\Users\jiaxing.TTNI\Documents\Visual Studio 2008\Projects\CustomClass\CustomClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jiaxing.TTNI\Documents\Visual Studio 2008\Projects\CustomClass\CustomClass\obj\Debug\CustomClass.dll
+C:\Users\jiaxing.TTNI\Documents\Visual Studio 2008\Projects\CustomClass\CustomClass\obj\Debug\CustomClass.pdb

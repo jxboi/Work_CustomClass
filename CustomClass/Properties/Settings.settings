@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CustomClass.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ClassName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SectionMaster</Value>
+    </Setting>
+    <Setting Name="Attributes" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OwnerCode:varchar(10),WHSCode:varchar(10),SectionCode:varchar(20),BU:varchar(30),Name:varchar(30),Status:int,CreatedBy:varchar(10),CreatedDate:datetime,RevisedBy:varchar(10),RevisedDate:datetime,CancelledBy:varchar(10),CancelledDate:datetime</Value>
+    </Setting>
+    <Setting Name="Library" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">System,System.Data,System.Data.SqlClient,System.Configuration,TTNI.FRAMEWORK</Value>
+    </Setting>
+    <Setting Name="ClassType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">TM</Value>
+    </Setting>
+    <Setting Name="PrimaryKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">OwnerCode,WHSCode,SectionCode</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
