@@ -560,7 +560,7 @@ namespace CustomClass
         {
             SetOutput();
 
-            txtOutput.Text += "/r/n Copywrite 123";
+            txtOutput.Text += "/r/n Copywrite";
         }
 
         protected void btnSave_Click(object sender, EventArgs e)
